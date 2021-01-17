@@ -1,3 +1,51 @@
 body {
-  background-color: aquamarine;
+  margin: 0px;
+  background-color: white;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  font-size: 90px;
+  margin-top: 0;
+  font-family: "Sacramento", cursive;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+.pro {
+  text-decoration: underline;
+}
+.container {
+  margin: 0;
+}
+.top-container {
+  background-color: #bee5d3;
+  padding-top: 100px;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.botton-cloud {
+  position: absolute;
+}
+.middle-container {
+  padding-top: 20px;
+}
+.myPhoto {
+  width: 150px;
+  height: 150px;
+}
+.skill-img {
+  width: 300px;
+  height: 300px;
+}
+.chilles-img {
+  width: 300px;
+  height: 300px;
 }
